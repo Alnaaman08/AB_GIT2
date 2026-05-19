@@ -95,4 +95,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     gui = PasswortGenerator(root)
     root.mainloop()
+print("doug")
 
